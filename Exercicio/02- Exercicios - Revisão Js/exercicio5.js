@@ -17,3 +17,14 @@ function verificarIdade(idade) {
 
 let idade = 70;
 verificarIdade(idade);
+
+
+
+
+
+
+
+
+
+
+
